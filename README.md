@@ -1,5 +1,5 @@
 
-##iOS Essentials: The UIViewController Lifecycle
+##Lifecycle
 
 As you’re learning iOS so you can get a job or build your own apps, there’s one Cocoa Touch class in particular that you need to be intimately familiar with. You’ll use UIViewController in 99.9% of the apps you build – whenever you create a view in iOS, it’s backed by a view controller. You subclass UIViewController (or one of its subclasses), then override a few key methods (like the ones below) so your code knows when the screen is about to appear, or when it’s about to disappear, and other such useful things. Needless to say, it’s important to understand the UIViewController lifecycle if you want to call yourself an iOS developer.
 
